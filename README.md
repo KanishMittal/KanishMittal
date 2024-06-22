@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KanishMittal
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on c++ related projects
 - 📫 How to reach me: https://www.instagram.com/kanish.mittal/
 - 😄 Pronouns: ...
