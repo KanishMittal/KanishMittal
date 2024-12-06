@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KanishMittal
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on c++ related projects
+- 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me: https://www.instagram.com/kanish.mittal/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: my uni causes de*ths :\
