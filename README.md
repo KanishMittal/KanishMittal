@@ -27,7 +27,7 @@ Here are some of the projects I've worked on:
 - **Description**: An e-learning platform to make education accessible and engaging for everyone.
 - **Technologies Used**: React, Node.js, MySql, Java
 
-### NETFLIX - CLONE(https://github.com/KanishMittal/Netflix-Clone)
+### NETFLIX landing page(https://github.com/KanishMittal/Netflix-Clone)
 - **Description**: Landing Page of NETFLIX website.
 - **Technologies Used**: HTML & CSS.
 
