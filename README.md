@@ -31,6 +31,11 @@ Here are some of the projects I've worked on:
 - **Description**: Landing Page of NETFLIX website.
 - **Technologies Used**: HTML & CSS.
 
+### Credit Card Fraud Detector - Machine Learning-Based Analysis
+- **Description**: A machine learning-based solution for detecting fraudulent credit card transactions.
+- **Technologies Used**: Jupyter Notebook, Machine Learning
+- **Repository Link**: [Credit Card Fraud Detector](https://github.com/KanishMittal/Credit-Card-Fraud-Detector-Machine-Learning-Based-Analysis)
+
 ## GitHub Stats
 
 ![KanishMittal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanishMittal&show_icons=true&theme=radical)
