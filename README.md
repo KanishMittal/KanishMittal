@@ -36,6 +36,12 @@ Here are some of the projects I've worked on:
 - **Technologies Used**: Jupyter Notebook, Machine Learning
 - **Repository Link**: [Credit Card Fraud Detector](https://github.com/KanishMittal/Credit-Card-Fraud-Detector-Machine-Learning-Based-Analysis)
 
+### MUSAFIR
+- **Description**: TOURISM MANAGEMENT SYSTEM.
+- **Technologies Used**: JavaScript
+- **Repository Link**: [MUSAFIR](https://github.com/KanishMittal/MUSAFIR)
+- **Homepage**: [Visit the live site](https://musafir-ten.vercel.app)
+
 ## GitHub Stats
 
 ![KanishMittal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanishMittal&show_icons=true&theme=radical)
