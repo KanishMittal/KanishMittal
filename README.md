@@ -254,7 +254,7 @@ I actively practice **Data Structures & Algorithms** and problem solving.
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://kanishmittal.vercel.app/">
+<a href="https://kanishmittalportfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
