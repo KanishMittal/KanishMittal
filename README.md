@@ -123,7 +123,6 @@ A full-stack tourism management platform designed to manage tours, users, bookin
 **Tech:** `JavaScript` `Node.js` `React` `MySQL`
 
 🔗 **Repository:** https://github.com/KanishMittal/MUSAFIR
-🌐 **Live Demo:** https://musafir-ten.vercel.app
 
 ---
 
